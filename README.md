@@ -8,7 +8,6 @@ and building things to figure out how they work.
 
 ## 🔧 Currently Learning :rocket:
 - Python scripting (beginner)
-- Kali Linux & virtual lab environments- Earn CompTIA A+ certification
 - Pursue CompTIA Security+
 - Break into IT/cybersecurity
 - Build practical scripts that solve real problems
